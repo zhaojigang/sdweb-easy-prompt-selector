@@ -11,6 +11,8 @@ TEMP_DIR = FILE_DIR.joinpath('tmp')
 TAGS_DIR = BASE_DIR.joinpath('tags')
 EXAMPLES_DIR = BASE_DIR.joinpath('tags_examples')
 
+YAML_SORTED_DIR = "extensions/sdweb-easy-prompt-selector/tags/"
+
 FILENAME_LIST = 'easyPromptSelector.txt'
 
 os.makedirs(TEMP_DIR, exist_ok=True)
@@ -24,13 +26,22 @@ def copy_examples():
         shutil.copy2(file, file_path)
 
 def tags():
-    return TAGS_DIR.rglob("*.yml")
+    return [YAML_SORTED_DIR + '画质.yml',
+            YAML_SORTED_DIR + '整体风格.yml',
+            YAML_SORTED_DIR + '人物.yml',
+            YAML_SORTED_DIR + '环境.yml',
+            YAML_SORTED_DIR + '光照.yml',
+            YAML_SORTED_DIR + '视角.yml',
+            YAML_SORTED_DIR + '艺术风格.yml',
+            YAML_SORTED_DIR + '魔法系.yml'
+            ]
+    # return TAGS_DIR.rglob("*.yml")
 
 def write_filename_list():
-    filepaths = map(lambda path: path.relative_to(FILE_DIR).as_posix(), list(tags()))
-
+    # filepaths = map(lambda path: path.relative_to(FILE_DIR).as_posix(), tags())
     with open(TEMP_DIR.joinpath(FILENAME_LIST), 'w', encoding="utf-8") as f:
-        f.write('\n'.join(sorted(filepaths)))
+        # f.write('\n'.join(sorted(filepaths)))
+        f.write('\n'.join(tags()))
 
 if len(list(TAGS_DIR.rglob("*.yml"))) == 0:
     copy_examples()

@@ -36,7 +36,7 @@ class EPSElementBuilder {
 
   // Elements
   static openButton({ onClick }) {
-    const button = EPSElementBuilder.baseButton('🔯タグを選択', { size: 'sm', color: 'secondary' })
+    const button = EPSElementBuilder.baseButton('🔯选择提示词', { size: 'sm', color: 'secondary' })
     button.classList.add('easy_prompt_selector_button')
     button.addEventListener('click', onClick)
 
@@ -79,7 +79,7 @@ class EPSElementBuilder {
     select.style.margin = '2px'
     select.addEventListener('change', (event) => { onChange(event.target.value) })
 
-    const none = ['なし']
+    const none = ['选择提示词']
     none.concat(options).forEach((key) => {
       const option = document.createElement('option')
       option.value = key
@@ -151,9 +151,7 @@ class EasyPromptSelector {
   async parseFiles() {
     const text = await this.readFile(this.PATH_FILE);
     if (text === '') { return {} }
-
     const paths = text.split(/\r\n|\n/)
-
     const tags = {}
     for (const path of paths) {
       const filename = path.split('/').pop().split('.').slice(0, -1).join('.')
@@ -179,7 +177,7 @@ class EasyPromptSelector {
     row.appendChild(dropDown)
 
     const settings = document.createElement('div')
-    const checkbox = EPSElementBuilder.checkbox('ネガティブプロンプトに入力', {
+    const checkbox = EPSElementBuilder.checkbox('在负提示中输入', {
       onChange: (checked) => { this.toNegative = checked }
     })
     settings.style.flex = '1'
