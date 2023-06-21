@@ -1,0 +1,738 @@
+対象:
+  - 1girl
+  - 1boy
+  - 1other
+  - multiple girls
+职业现实:     
+  救生员: lifeguard    
+  拳击手: boxer    
+  科学家: scientist    
+  运动员: athletes    
+  职场女性: office  lady  
+  和尚: monk    
+  杂技演员: crobat    
+  修女: nun    
+  护士: nurse    
+  空姐: stewardess    
+  学生: student    
+  女服务员: waitress    
+  老师: teacher    
+  赛车手: racer    
+  警察: police    
+  士兵: soldier    
+  啦啦队: cheerleader    
+  男演员: actor    
+  女演员: actress    
+  间谍: spy    
+  特工: agent    
+  刺客: assassin    
+  诗人: poet    
+  日本武士: samurai    
+  舞女: dancing  girl  
+  摩托车手: motorcyclist    
+  黑客: hacker    
+  魔术师: magician    
+  侦探: detective    
+  人偶: doll    
+  女仆: maid    
+  飞行员: pilot    
+  潜水员: diver    
+  酒吧审查员: bar  censor  
+  传教士: missionary    
+  消防员: firefighter    
+  守门员: goalkeeper    
+  厨师: chef    
+  宇航员: astronaut    
+  收银员: cashier    
+  邮递员: mailman    
+  咖啡师: barista    
+  隐士: the  hermit  
+  牧羊人: makihitsuji    
+职业动漫:     
+  宝可梦: pokemon    
+  泰迪熊: teddy  bear  
+  马里奥: mario    
+  皮卡丘: pikachu    
+  新世纪福音战士: neon  genesis  evangelion
+  初音未来: hatsune  miku  
+  哈利波特: harry  potter  
+  哆啦A梦: doraemon    
+  圣斗士星矢: saint  seiya  
+  五条悟: gojou  satoru  
+  复仇者联盟: avengers    
+  神奇女侠: mazinger    
+  美国队长: captain  america  
+  蜡笔小新: crayon  shin-chan  
+  灌篮高手: slam  dunk  
+  孙悟空: sun  wukong  
+  女巫: witch    
+  忍者: ninja    
+  吸血鬼: vampire    
+  骑士: knight    
+  魔法少女: magical_girl    
+  半兽人: orc    
+  德鲁伊: druid    
+  妖精: elf    
+  小精灵: fairy    
+  兽人: furry    
+  美人鱼: mermaid    
+  假面骑士: kamen  rider  
+  魔导师: magister    
+  蜘蛛侠: spider-man    
+  圣诞老人: santa  alter  
+
+范围:
+  上半身: upper body
+  全身: full body
+
+眉毛:     
+  浓眉: thick  eyebrows  
+  眉毛翘起: cocked  eyebrow  
+  短眉毛: short  eyebrows  
+  V字眉: v-shaped  eyebrows  
+
+眼睛:     
+  空洞眼睛: empty  eyes  
+  睁大眼睛: wide  eyes  
+  闭上一只眼: one  eye  closed
+  半闭眼睛: half-closed  eyes  
+  渐变眼: gradient_eyes    
+  水汪汪大眼: aqua  eyes  
+  翻白眼: rolling  eyes  
+  斗鸡眼: cross-eyed    
+  猫眼: slit  pupils  
+  布满血丝的眼睛: bloodshot  eyes  
+  发光眼睛: glowing  eyes  
+  吊眼角: tsurime    
+  垂眼角: tareme    
+  恶魔眼: devil  eyes  
+  收缩的瞳孔: constricted  pupils  
+  魔瞳: devil  pupils  
+  蛇瞳: snake  pupils  
+  闪闪发光瞳: pupils  sparkling  
+  花形瞳: flower-shaped  pupils  
+  爱心瞳: heart-shaped  pupils  
+  异色瞳: heterochromia    
+  美瞳: color  contact  lenses
+  长睫毛: longeyelashes    
+  彩色睫毛: colored  eyelashes  
+  眼下痣: mole  under  eye
+
+嘴巴:     
+  栗子嘴: chestnut  mouth  
+  厚嘴唇: thick  lips  
+  嘴唇浮肿: puffy  lips  
+  口红: lipstick    
+  心形嘴: heart-shaped  mouth  
+  嘟嘴: pout    
+  张嘴: open  mouth  
+  闭嘴: closed  mouth  
+  猫咪嘴: ：3    
+  鲨鱼嘴: shark  mouth  
+  吐舌头: :p    
+  分开嘴唇: parted  lips  
+  嘴下痣: mole  under  mouth
+
+耳朵:
+  精灵耳: elf ears     
+  动物耳朵: fake  animal  ears
+  猫耳朵: cat  ears  
+  狗耳朵: dog  ears  
+  狐狸耳朵: fox  ears  
+  兔子耳朵: bunny  ears  
+  熊耳朵: bear  ears  
+
+胡子&牙:     
+  胡须: beard    
+  小胡子: mustache    
+  山羊胡: goatee    
+  长鬓角: long  sideburns  
+  尖牙: fangs    
+  虎牙: canine  teeth  
+  咬紧牙关: clenched  teeth 
+
+发色:
+  単色:
+    黑发: black hair
+    金发: blonde hair
+    茶发: brown hair
+    赤发: red hair
+    粉发: pink hair
+    蓝发: blue hair
+    水色发: aqua hair
+    緑发: green hair
+    紫发: purple hair
+    橙发: orange hair
+    银发: silver hair
+    灰发: gray hair
+    白发: white hair
+  多色:
+    多色: multicolored hair
+    条纹色: streaked hair
+    渐变色: gradient hair
+    内侧彩色: colored inner hair
+    分叉色: split-color hair
+
+发型:
+  长度:
+    极短发: very short hair
+    短发: short hair
+    中等长度: medium hair
+    长发: long hair
+    超长发: very long hair
+    超超长发: absurdly long hair
+  种类:
+    乱发: messy hair
+    直发: straight hair
+    波浪发: wavy hair
+    翻卷发: flipped hair
+    非対称: asymmetrical hair
+  马尾:
+    马尾: ponytail
+    高马尾: high ponytail
+    低马尾: low ponytail
+    前马尾: front ponytail
+    侧马尾: side ponytail
+    分叉马尾: split ponytail
+    折叠马尾: folded ponytail
+    短马尾: short ponytail
+  双马尾:
+    双马尾: twintails
+    低双马尾: low twintails
+    短双马尾: short twintails
+    三马尾: tri tails
+    四马尾: quad tails
+  辫子: braid
+  半向上: half updo
+  一边向上: one side up
+  两边向上: two side up
+  多股头发: multi-tied hair
+  头顶结: topknot
+  卷发: curly hair
+  钻头毛: drill hair
+  双钻头毛: twin drills
+  垂长卷: ringlets
+  弓型发: bow-shaped hair
+  发髻: hair bun
+  发圈: hair rings
+  长发绺: dreadlocks
+
+前发:
+  钝刘海: blunt bangs
+  非対称刘海: asymmetrical bangs
+  眼睛上方刘海:  hair over eyes
+  一直眼睛上方刘海: hair over one eye
+  分刘海: parted bangs
+  齐刘海: swept bangs
+  眼睛间头发: hair between eyes
+  发量: hair intakes
+  触角: sidelocks
+
+发型其他:
+  横发: hair flaps
+  傻毛: ahoge
+  天线毛: antenna hair
+
+年龄:
+  十几岁: teen
+  少年: early teen
+  大人: adult
+  老人: elder
+  小儿: child
+  幼儿园儿: kindergartener
+  幼儿: toddler
+  萝莉: loli
+  正太: shota
+
+肤色:
+  白: white skin
+  色白: pale skin
+  褐色: dark skin
+  明亮: shiny skin
+  有色: colored skin
+
+皮肤性质:
+  日晒: tan
+  晒痕: tanlines
+  纹身: tattoo
+  油性: oil
+  毛孔清晰的: skin pores
+
+体形:
+  运动员: athlete
+  模特: model
+  苗条: slender
+  诱惑: glamor
+  丰满: plump
+  胖: fat
+  高: tall
+  纤弱: petite
+  矮: chibi
+  怀孕: pregnant
+  肌肉: muscular
+  细腰: narrow waist
+  大屁股: wide hips
+
+胸:
+  平胸: flat chest
+  贫乳: small breasts
+  普通: medium breasts
+  巨乳: large breasts
+  爆乳: huge breasts
+  垂乳: hanging breasts
+
+身体部位:
+  腋: armpits
+  锁骨: collarbone
+  肚脐: navel
+  屁股: ass
+  大腿: thighs
+
+表情（可配合插件 StylePile=>moods 使用）:
+  笑: smile
+  惨笑: sad smile
+  邪恶笑: evil smile
+  天使笑: angelic smile
+  强笑: forced smile
+  诱人笑: seductive smile
+  咧嘴笑: grin
+  邪恶咧嘴笑: evil grin
+  傻笑: smirk
+  怒: angry
+  悲伤: sad
+  哭: crying
+  泪: tears
+  恐怖: scared
+  不好的: serious
+  恼怒: annoyed
+  黑暗人格: dark persona
+  多亚脸: doyagao
+  脸红: blush
+  脸通红: full-face blush
+  无聊: bored
+  罪恶感: guilt
+  无感情: expressionless
+  决心: determined
+  接吻: incoming kiss
+  失望: disappointed
+  轻蔑: disdain
+  嫉妒: envy
+  厌恶: disgust
+  困惑: confused
+  烦恼挑眉: troubled eyebrows
+  V型眉: v-shaped eyebrows
+  羞耻: embarrassed
+  顽皮: naughty
+  困乏: sleepy
+
+姿态:       
+  侧身坐: yokozuwari      
+  鸭子坐: ahirusuwari      
+  盘腿: indian  style    
+  跪着: kneeling      
+  躬躯: arched  back    
+  膝枕: lap  pillow    
+  学猫叫: paw  pose    
+  单膝跪地: one  knee    
+  蜷起身子侧躺: fetal  position    
+  仰卧: on  back    
+  俯卧: on  stomach    
+  坐着: sitting      
+  屈膝抱腿坐: hugging  own  legs  
+  立式跨骑: upright  straddle    
+  站着: standing      
+  蹲着: squatting      
+  绑在十字架上: crucifixion      
+  双腿缠绕: leg  lock    
+  四肢着地: all  fours    
+  戴耳机: hand  on  headphones  
+  鬼姿势: ghost  pose    
+  回头: turning  around    
+  歪头: head  tilt    
+  前倾: leaning  forward    
+
+手势:       
+  嘘手势: shushing      
+  翘大拇指: thumbs  up    
+  手放脑后: arms  behind  head  
+  手放身后: arms  behind  back  
+  手插口袋: hand  in  pocket  
+  双手插口袋: hands  in  pocket  
+  十指相扣: interlocked  fingers    
+  V字手势: victory  pose    
+  手在地板上: hand  on  floor  
+  手在额头上: hand  on  forehead  
+  手在肚子上: hand  on  own  stomach
+  手在肩膀上: arm  over  shoulder  
+  手搭别人的腿: hand  on  another's  leg
+  手搭别人的腰: hand  on  another's  waist
+  双手合十: own  hands  clasped  
+  翼展双臂: wide  open  arms  
+  手放嘴边: hand  to  mouth  
+  手枪手势: finger  gun    
+  猫爪手势: cat  pose    
+
+视线:       
+  远眺: looking  afar    
+  照镜子: looking  at  mirror  
+  看手机: looking  at  phone  
+  看向别处: looking  away    
+  透过刘海看: visible  through  hair  
+  透过眼镜看: looking  over  glasses  
+  面向观者: look  at  viewer  
+  靠近观者: close  to  viewer  
+  动态角度: dynamic  angle    
+  舞台角度: dramatic  angle    
+  凝视: stare      
+  向上看: looking  up    
+  向下看: looking  down    
+  看向旁边: looking  to  the  side
+  移开目光: looking  away    
+
+整体动作:       
+  嗅闻: smelling      
+  公主抱: princess  carry    
+  拥抱: hug      
+  背对背: back-to-back      
+  耶: peace  symbol    
+  调整过膝袜: adjusting_thighhigh      
+  抓住: grabbing      
+  战斗姿态: fighting_stance      
+  走: walking      
+  跑: running      
+  跨坐: straddling      
+  跳: jump      
+  飞: fly      
+  靠墙: against  wall    
+  躺: lie      
+  从背后抱: hug  from  behind  
+  遛狗: walk  a  dog  
+  提裙: skirt  lift    
+  泡温泉: half  body  under  water
+  骑马: horse  riding    
+  自拍: selfie      
+  一字马: standing  split    
+  敬礼: salute      
+  祈祷: pray      
+  冥想: doing  a  meditation  
+
+上半身动作:       
+  伸懒腰: stretch      
+  托腮: gill  support    
+  牵手: holding  hands    
+  单手叉腰: hand_on_hip      
+  双手叉腰: hands_on_hips      
+  招手: waving      
+  撮头发: hair  scrunchie    
+  拉头发: hair_pull      
+  抓别人的头发: grabbing  another's  hair  
+  竖中指: middle_finger      
+  弯腰: bent  over    
+  亲吻脸颊: kissing  cheek    
+  亲吻额头: kissing  forehead    
+  踮起脚尖吻: tiptoe  kiss    
+  头顶水果: fruit  on  head  
+  咬手套: glove  biting    
+  脸贴脸: cheek-to-cheek      
+  手牵手: hand  on  another's  hand
+  双手交叉: crossed  arms    
+  双手张开伸直: spread  arms    
+  挥动手臂: waving  arms    
+  伸出手臂: outstretched  arm    
+  用手臂支撑: carrying      
+  搂着手臂: arm  hug    
+  拿着: holding      
+  拿着餐刀: holding  knife    
+  拿着枪: holding  gun    
+  拿着杯子: holding  cup    
+  拿着食物: holding  food    
+  拿着书: holding  book    
+  拿着魔杖: holding  wand    
+  打着伞: holding  umbrella    
+  捧着花: holding  flower    
+  拿着麦克风: holding  microphone    
+  抱着物品: object  hug    
+  抱着心: holding  heart    
+
+上装:       
+  过手袖: sleeves_past_fingers      
+  背心: tank  top    
+  白衬衫: white  shirt    
+  水手衬衫: sailor  shirt    
+  T恤: T-shirt      
+  毛衣: sweater      
+  夏日长裙: summer  dress    
+  连帽衫: hoodie      
+  毛领: fur  trimmed  colla  
+  兜帽斗篷: hooded  cloak    
+  夹克: jacket      
+  皮夹克: leather  jacket    
+  探险家夹克: safari  jacket    
+  兜帽: hood      
+  牛仔夹克: denim  jacket    
+  高领夹克: turtleneck  jacket    
+  消防员夹克: firefighter  jacket    
+  透明夹克: see-through  jacket    
+  战壕大衣: trench  coat    
+  实验室外套: lab  coat    
+  羽绒服: Down  Jackets    
+  防弹盔甲: body  armor    
+  防弹衣: flak  jacket    
+  大衣: overcoat      
+  粗呢大衣: duffel  coat    
+服装:       
+  透视装: transparent  clothes    
+  燕尾服: tailcoat      
+  女仆装: Victoria  black  maid  dress
+  水手服: sailor  suit    
+  学生服: school  uniform    
+  职场制服: bussiness  suit    
+  西装: suit      
+  军装: military  uniform    
+  礼服: lucency  full  dress  
+  汉服: hanfu      
+  旗袍: cheongsam      
+  和服: japanses  clothes    
+  运动服: sportswear      
+  工装服: dungarees      
+  婚纱: wedding  dress    
+  银色连衣裙: silvercleavage  dress    
+  长袍: robe      
+  围裙: apron      
+  快餐制服: fast  food  uniform  
+  JK制服: JK      
+  健身服: gym_uniform      
+  巫女服: miko  attire    
+  海军陆战队服: SWAT  uniform    
+  无袖连衣裙: sleeveless  dress    
+  雨衣: raincoat      
+  机甲衣: mech  suit    
+  巫师法袍: wizard  robe    
+  刺客装束: assassin-style      
+下装:       
+  牛仔短裤: denim  shorts    
+  百褶裙: pleated  skirt    
+  热裤: short  shorts    
+  铅笔裙: pencil  skirt    
+  皮裙: leather  skirt    
+  黑色紧身裤: black  leggings    
+  和服下的裙子: skirt  under  kimono  
+其他服装:       
+  褶边: frills      
+  花边: lace      
+  哥特风格: gothic      
+  洛丽塔风格: lolita  fashion    
+  西部风格: western      
+  湿身: wet  clothes    
+  露单肩: off_shoulder      
+  露双肩: bare_shoulders      
+  格子花纹: tartan      
+  横条花纹: striped      
+  披甲: armored  skirt    
+  盔甲: armor      
+  金属盔甲: metal  armor    
+  狂战士铠甲: berserker  armor    
+  腰带: belt      
+  围巾: scarf      
+  披肩: cape      
+  皮草披肩: fur  shawl    
+帽饰:     
+  棒球帽: Baseball  cap  
+  针织帽: Beanie    
+  拿破仑帽: Bicorne    
+  太阳帽: Boater  hat  
+  遮阳帽: Visor  cap  
+  圆顶礼帽: Bowler  hat  
+  报童帽: Cabbie  hat  
+  渔夫帽: Bucket  hat  
+  侦探帽: Fedora    
+  牛仔帽: Cowboy  hat  
+  厨师帽: Chef  hat  
+  军官帽: Military  hat  
+  圣诞帽: Santa  hat  
+  派对帽: Party  hat  
+  小丑帽: Jester  cap  
+  安全帽: Hardhat    
+  棒球头盔: Baseball  helmet  
+  橄榄球头盔: Football  helmet  
+  动物头盔: animal  helmet  
+  女巫帽: witch  hat  
+  贝雷帽: beret    
+  鸭舌帽: peaked  cap  
+  草帽: Straw  hat  
+鞋类:     
+  裸足: bare_legs    
+  靴子: boots    
+  马丁靴: knee  boots  
+  脚踝靴: ankle  boots  
+  系带靴: cross-laced_footwear    
+  战斗靴: combat  boots  
+  装甲靴: armored  boots  
+  过膝靴: knee  boots  
+  防水橡胶靴: rubber  boots  
+  皮靴: leather  boots  
+  雪地靴: snow  boots  
+  圣诞靴: santa  boots  
+  鞋子: shoes    
+  厚底鞋: platform  footwear  
+  尖头鞋: pointy  footwear  
+  芭蕾舞鞋: ballet  slippers  
+  运动鞋: sneakers    
+  旱冰鞋: roller  skates  
+  溜冰鞋: ice  skates  
+  钉鞋: spiked  shoes  
+  高跟鞋: high  heels  
+  玛丽珍鞋: mary  janes  
+  乐福鞋: loafers    
+  女式学生鞋: uwabaki    
+  凉鞋: sandals    
+  木屐: geta    
+  拖鞋: slippers    
+  人字拖: flip-flops    
+袜类:     
+  不穿袜子: no  socks  
+  短袜: socks    
+  日式厚底短袜: tabi    
+  丝袜: stockings    
+  圣诞袜: christmas  stocking  
+  暖腿袜: leg  warmers  
+  荷叶边袜子: frilled  socks  
+  丝带边袜子: ribbon-trimmed  legwear  
+  闪亮袜子: shiny  legwear  
+  褶边长筒袜: frilled  thighhighs  
+  过膝袜: thighhighs    
+  渔网袜: fishnet  stockings  
+  堆堆袜: loose  socks  
+  裤袜: leggings    
+  蕾丝裤袜: lace  legwear  
+  罗纹裤袜: ribbed  legwear  
+  湿连裤袜: wet  pantyhose  
+  格子裤袜: plaid  legwear  
+  透视裤袜: see-through  legwear  
+  连裤袜: pantyhose    
+  撕裂的连裤袜: torn  pantyhose  
+  单腿连裤袜: single  leg  pantyhose
+  荷叶边连裤袜: frilled  pantyhose  
+  柳丁吊袜带: studded  garter  belt
+  吊袜带: sock  dangle  
+  大腿系带: thigh  strap  
+  腿部花边环: leg_garter    
+  包扎腿: bandaged  leg 
+
+发饰:     
+  发带: hair  ribbon  
+  头巾: head  scarf  
+  动物头巾: animal  hood  
+  蝴蝶结发饰: hair  bow  
+  新月发饰: crescent  hair  ornament
+  洛丽塔发饰: lolita  hairband  
+  羽毛发饰: feather  hair  ornament
+  头花: hair  flower  
+  发髻: hair  bun  
+  发夹: hairclip    
+  发箍: hair  scrunchie  
+  发圈: hair  rings  
+  发饰: hair  ornament  
+  发棒: hair  stick  
+  心形发饰: heart  hair  ornament
+首饰:     
+  手链: bracelet    
+  项圈: choker    
+  金属项圈: metal  collar  
+  戒指: ring    
+  腕带: wristband    
+  吊坠: pendant    
+  胸针: brooch    
+  圈形耳环: hoop  earrings  
+  手镯: bangle    
+  耳钉: stud  earrings  
+  旭日形首饰: sunburst    
+  珍珠手链: pearl  bracelet  
+  耳坠: drop  earrings  
+  木偶戒指: puppet  rings  
+  胸花: corsage    
+  蓝宝石胸针: sapphire  brooch  
+  珠宝首饰: jewelry    
+  项链: necklace    
+装饰:     
+  丝带: ribbon    
+  丝带饰边: ribbon  trim  
+  蕾丝饰边: lace  trim  
+  裙撑: skirt  lift  
+  护手: gauntlets    
+  领巾: neckerchief    
+  红领巾: red  neckerchief  
+  肩章: pauldrons    
+  臂带: arm  strap  
+  臂镯: armlet    
+  细肩带: spaghetti  strap  
+  般若面具: Prajna  in  mask
+  面纱: veil    
+  新娘面纱: bridal  veil  
+  皇冠: tiara    
+  迷你皇冠: mini  crown  
+  耳罩: ear  covers  
+  飞行员太阳镜: aviator  sunglasses  
+  无边框眼镜: semi-rimless  eyewear  
+  半无框眼镜: semi-rimless  eyewear  
+  太阳镜: sunglasses    
+  风镜: goggles    
+  独眼眼罩: eyepatch    
+  黑色眼罩: black  blindfold  
+  铁棘: metal  thorns  
+  光环: halo    
+  口罩: mouth  mask  
+  创口贴: bandaid  hair  ornament
+  指甲油: nail  polish  
+  玩偶关节: doll  joints  
+  机械义肢: cybernetic  prosthesis  
+  机械腿: mechanical  legs  
+  沙滩巾: beach  towel  
+  雨披: poncho    
+  浓妆: make  up  
+
+尾巴:     
+  宝可梦尾巴: pokemon  tail  
+  皮卡丘尾巴: pikachu  tail  
+  水獭尾巴: otter  tail  
+  蝎尾: scorpion  tail  
+  鹿尾: deer  tail  
+  黄鼠狼尾巴: weasel  tail  
+  羊驼尾巴: alpaca  tail  
+  恐龙尾巴: dinosaur  tail  
+  企鹅尾巴: penguin  tail  
+  羊尾巴: sheep  tail  
+  山羊尾巴: goat  tail  
+  海狸尾巴: beaver  tail  
+  小熊猫尾巴: red  panda  tail
+  豺尾巴: jackal  tail  
+  食蚁兽尾巴: anteater  tail  
+  土狼尾巴: aardwolf  tail  
+  猎豹尾巴: panther  tail  
+  熊猫尾巴: panda  tail  
+  天使尾巴: Angel  wings  
+翅膀:   
+  翅膀: wings  
+  蝴蝶翅膀: Butterfly  wings  
+  昆虫翅膀: insect  wings  
+  蝙蝠翅膀: Bat  wings  
+  鸟翼: bird  wings  
+  羽翼: feathered  wings  
+  妖精翅膀: Fairy  wings  
+  龙之翼: Dragon  wings  
+  恶魔之翼: Demon  wings  
+  火焰翅膀: Fiery  wings  
+  机械翅膀: Mechanical  wings  
+  冰翅: ice  crystal  texture
+  冰火之翼: ((burning feathers)),(feathers_made_of_ice),(frozen feathers),(((ice and fire together)))    
+角:     
+  羚羊角: antelope  horns  
+  山羊角: goat  horns  
+  羊角: sheep  horns  
+  奶牛角: cow  horns  
+  公牛角: ox  horns  
+  鬼角: oni  horns  
+  断角: broken  horn  
+  机械角: mechanical  horns  
+  恶魔之角: demon  horns  
+  龙之角: dragon  horns  

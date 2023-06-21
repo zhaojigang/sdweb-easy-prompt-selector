@@ -1,0 +1,16 @@
+光照:     
+  轮廓光: rim  light  
+  体积光: Volumetric  Lighting  
+  霓虹灯: glowing  neon  lights
+  电影级光照: Cinematic  Lighting  
+  透镜光晕: lens  flare  
+  金属光泽: metallic  luster  
+  氛围光照: moody  lighting  
+  丁达尔效应: Tyndall  effect  
+  漏光光效: light  leaks  
+  背景光: background  light  
+  自然光: available  light
+  柔光: soft  light
+  侧面光: sidelighting
+  镜面光（适用于铠甲）: specular  light
+  光晕: halation  
