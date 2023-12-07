@@ -33,7 +33,8 @@ def tags():
             YAML_SORTED_DIR + '光照.yml',
             YAML_SORTED_DIR + '视角.yml',
             YAML_SORTED_DIR + '艺术风格.yml',
-            YAML_SORTED_DIR + '魔法系.yml'
+            YAML_SORTED_DIR + '魔法系.yml',
+            YAML_SORTED_DIR + '艺术字.yml'
             ]
     # return TAGS_DIR.rglob("*.yml")
 
